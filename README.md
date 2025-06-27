@@ -56,7 +56,7 @@ Evaluated model performance using:
 
 ### 5. Sigmoid Function Explanation
 Logistic Regression uses the sigmoid function:
-\[
-\sigma(z) = \frac{1}{1 + e^{-z}}
-\]
+
+![image](https://github.com/user-attachments/assets/3baf0c61-9ede-456a-9dab-32897cdb959e)
+
 This function maps real-valued inputs to a range between 0 and 1, representing the predicted probability of the positive class.
